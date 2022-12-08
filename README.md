@@ -58,4 +58,5 @@ Päällimmäiset keinot, jotka itse oivalsin, oli rajata algoritmille mahdollise
 Viiden suoraa pelaaville tekoälyille on olemassa myös vuosittainen kilpailu. Suosittelen perehtymään, mikäli aihe kiinnostaa!
 
 ![Gomocup logo](https://gomocup.org/static/images/gomocup_small.png)
+
 ”Gomocup is a competition in gomoku (five in row). The competitors are not humans, but computer artificial intelligences (AI, brain).”
