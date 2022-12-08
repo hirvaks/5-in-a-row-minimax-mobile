@@ -45,8 +45,11 @@ Päällimmäiset keinot, jotka itse oivalsin, oli rajata algoritmille mahdollise
 
 ## Käytetyt lähteet
 [Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI&ab_channel=SebastianLague)
+
 [Minimax Algorithm in Game Theory | Set 1 (Introduction)](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/)
+
 [Introduction to Evaluation Function of Minimax Algorithm in Game Theory](https://www.geeksforgeeks.org/introduction-to-evaluation-function-of-minimax-algorithm-in-game-theory/?ref=rp)
+
 [Minimax Algorithm in Game Theory | Set 3 (Tic-Tac-Toe AI – Finding optimal move)](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/)
 
 ---
